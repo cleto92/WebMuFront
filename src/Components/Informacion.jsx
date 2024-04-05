@@ -79,7 +79,34 @@ const Informacion = () => {
                             </ul>
                           </div>
                         </div>
-                        
+                        <div className="flex flex-col gap-2">
+                          <p className="font-semibold text-red-700">
+                            Informacion del Servidor:
+                          </p>
+                          <div className="font-medium text-gray-700">
+                            <ul className="list-disc pl-5">
+                              <li>
+                                Version:{" "}
+                                <span className="font-bold">97d Clasica</span>
+                              </li>
+                              <li>
+                                Experiencia:{" "}
+                                <span className="font-bold">12x</span>
+                              </li>
+                              <li>
+                                Drop: <span className="font-bold">40%</span>
+                              </li>
+                              <li>
+                                Balanceo: <span className="font-bold">Si</span>
+                              </li>
+                              <li>
+                                Reset:{" "}
+                                <span className="font-bold">Nivel 350</span>
+                              </li>
+
+                            </ul>
+                          </div>
+                        </div>
                       </CardBody>
                     </Card>
                   </Tab>
