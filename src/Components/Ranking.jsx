@@ -152,7 +152,7 @@ const Ranking = () => {
               {ranking.Name}
             </TableCell>
             <TableCell className="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
-              {ranking.ResetCount}
+              {ranking.cLevel} [{ranking.ResetCount}]
             </TableCell>
           </TableRow>
         ))}
