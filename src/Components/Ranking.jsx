@@ -118,7 +118,7 @@ const Ranking = () => {
           JUGADOR
         </TableColumn>
         <TableColumn className="px-6 py-3 text-left text-sm font-semibold text-gray-600 uppercase tracking-wider">
-          RESETS
+          Nivel
         </TableColumn>
       </TableHeader>
       <TableBody className="bg-white divide-y divide-gray-200">
