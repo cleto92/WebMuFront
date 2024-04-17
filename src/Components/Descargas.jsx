@@ -57,6 +57,7 @@ const Descargas = () => {
                             MEDIAFIRE
                           </Link>
                         </p>
+                        <p>Nombre: <span className="font-bold">CLUB5_V2</span></p>
                         <div className="font-medium text-gray-700">
                           <p>Requisitos:</p>
                           <ul className="list-disc pl-5">
