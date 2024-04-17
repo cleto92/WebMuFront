@@ -51,7 +51,7 @@ const Descargas = () => {
                         <p className="font-semibold">
                           Descargar:{" "}
                           <Link
-                            href="https://www.mediafire.com/file/nz9ik3ltaj6ev5y/Cliente_Club_5.exe/file"
+                            href="https://www.mediafire.com/file/k58m40ark4l26w8/Club5_V2.exe/file"
                             className="text-blue-500 hover:underline"
                           >
                             MEDIAFIRE
@@ -80,7 +80,7 @@ const Descargas = () => {
                         <p className="font-semibold">
                           Descargar:{" "}
                           <Link
-                            href="https://mega.nz/file/2wQlQJ5S#2nuN1LRaWYcJU4YFojUI8sbXA7rwGI4lh9j2jLws5a8"
+                            href="https://mega.nz/file/XtZGEbRb#CURJZhynigQCX4neAd1punyc7Z1nIEH9u2Lg-UzyezU"
                             className="text-blue-500 hover:underline"
                           >
                             MEGA
@@ -115,6 +115,7 @@ const Descargas = () => {
                             PARCHE_V2
                           </Link>
                         </p>
+                        <p>Si tenes el antiguo cliente, debes descargar el Parche de forma obligatoria. El actual Cliente ya tiene el parche incluido, sin embargo recomendamos descargar el Cliente CLUB5_V2</p>
                         <div className="font-medium text-gray-700"></div>
                       </div>
                     </CardBody>
