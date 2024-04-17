@@ -109,7 +109,7 @@ const Descargas = () => {
                         <p className="font-semibold">
                           Descargar:{" "}
                           <Link
-                            href="#"
+                            href="https://www.mediafire.com/file/piii346xlxnyx65/Parche_V2.rar/file"
                             className="text-blue-500 hover:underline"
                           >
                             PARCHE_V2
