@@ -8,7 +8,7 @@ import {
   Spinner,
 } from "@nextui-org/react";
 import { useState, useEffect } from "react";
-import { useAuth } from "../../Context/AuthContext";
+import { useAuth } from '../Context/AuthContext';
 
 const LoginOff = () => {
   const { isOpen, onOpen, onOpenChange, onCloseLogin } = useDisclosure();

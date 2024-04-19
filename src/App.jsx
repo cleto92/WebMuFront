@@ -7,7 +7,7 @@ import "animate.css";
 import LoginOff from "./Components/LoginOff";
 import LoginOn from "./Components/LoginOn";
 import CrearCuenta from "./Api/CrearCuenta";
-import { useAuth } from "../Context/AuthContext";
+import { useAuth } from "./Context/AuthContext";
 import Ranking from "./Components/Ranking";
 import Informacion from "./Components/Informacion";
 import Descargas from "./Components/Descargas";

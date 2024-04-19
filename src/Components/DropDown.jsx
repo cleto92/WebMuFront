@@ -9,7 +9,7 @@ import {
 } from "@nextui-org/react";
 import Acciones from "./Acciones";
 import CambiarPassword from "./CambiarPassword";
-import { useAuth } from "../../Context/AuthContext";
+import { useAuth } from '../Context/AuthContext';
 
 
 const DropDown = () => {

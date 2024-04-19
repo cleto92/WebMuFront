@@ -7,7 +7,7 @@ import {
   Spinner,
 } from "@nextui-org/react";
 import { useState } from "react";
-import { useAuth } from "../../Context/AuthContext";
+import { useAuth } from '../Context/AuthContext';
 import PropTypes from "prop-types";
 
 const CambiarPassword = ({ openModal, setOpenModal }) => {
