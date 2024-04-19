@@ -57,7 +57,7 @@ const Descargas = () => {
                             MEDIAFIRE
                           </Link>
                         </p>
-                        <p>Nombre: <span className="font-bold">CLUB5_V2</span></p>
+                        <p>Nombre: <span className="font-bold">CLUB5_V3</span></p>
                         <div className="font-medium text-gray-700">
                           <p>Requisitos:</p>
                           <ul className="list-disc pl-5">
@@ -87,7 +87,7 @@ const Descargas = () => {
                             MEGA
                           </Link>
                         </p>
-                        <p>Nombre: <span className="font-bold">CLUB5_V2</span></p>
+                        <p>Nombre: <span className="font-bold">CLUB5_V3</span></p>
                         <div className="font-medium text-gray-700">
                           <p>Requisitos:</p>
                           <ul className="list-disc pl-5">
@@ -114,10 +114,10 @@ const Descargas = () => {
                             href="https://www.mediafire.com/file/wsvh5asxxkjfdbb/Parche_V3.rar/file"
                             className="text-blue-500 hover:underline"
                           >
-                            PARCHE_V2
+                            PARCHE_V3
                           </Link>
                         </p>
-                        <p>Si tenes el antiguo cliente, debes descargar el Parche de forma obligatoria. El actual Cliente ya tiene el parche incluido, sin embargo recomendamos descargar el Cliente CLUB5_V2</p>
+                        <p>Si tenes el antiguo cliente, debes descargar el Parche de forma obligatoria. El actual Cliente ya tiene el parche incluido, sin embargo recomendamos descargar el Cliente CLUB5_V3</p>
                         <div className="font-medium text-gray-700"></div>
                       </div>
                     </CardBody>
