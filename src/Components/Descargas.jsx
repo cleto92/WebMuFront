@@ -51,7 +51,7 @@ const Descargas = () => {
                         <p className="font-semibold">
                           Descargar:{" "}
                           <Link
-                            href="https://www.mediafire.com/file/k58m40ark4l26w8/Club5_V2.exe/file"
+                            href="https://www.mediafire.com/file/tgdi86n203eazcj/Club5_V3.exe/file"
                             className="text-blue-500 hover:underline"
                           >
                             MEDIAFIRE
@@ -81,7 +81,7 @@ const Descargas = () => {
                         <p className="font-semibold">
                           Descargar:{" "}
                           <Link
-                            href="https://mega.nz/file/XtZGEbRb#CURJZhynigQCX4neAd1punyc7Z1nIEH9u2Lg-UzyezU"
+                            href="https://mega.nz/file/HsA33Jwb#rzHWWztV4nW1sGT3FyOgJhrJDXfjxcXHL3vWUDcwuBQ"
                             className="text-blue-500 hover:underline"
                           >
                             MEGA
@@ -111,7 +111,7 @@ const Descargas = () => {
                         <p className="font-semibold">
                           Descargar:{" "}
                           <Link
-                            href="https://www.mediafire.com/file/piii346xlxnyx65/Parche_V2.rar/file"
+                            href="https://www.mediafire.com/file/wsvh5asxxkjfdbb/Parche_V3.rar/file"
                             className="text-blue-500 hover:underline"
                           >
                             PARCHE_V2
