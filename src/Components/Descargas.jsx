@@ -51,13 +51,13 @@ const Descargas = () => {
                         <p className="font-semibold">
                           Descargar:{" "}
                           <Link
-                            href="https://www.mediafire.com/file/k58m40ark4l26w8/Club5_V2.exe/file"
+                            href="https://www.mediafire.com/file/tgdi86n203eazcj/Club5_V3.exe/file"
                             className="text-blue-500 hover:underline"
                           >
                             MEDIAFIRE
                           </Link>
                         </p>
-                        <p>Nombre: <span className="font-bold">CLUB5_V2</span></p>
+                        <p>Nombre: <span className="font-bold">CLUB5_V3</span></p>
                         <div className="font-medium text-gray-700">
                           <p>Requisitos:</p>
                           <ul className="list-disc pl-5">
@@ -81,13 +81,13 @@ const Descargas = () => {
                         <p className="font-semibold">
                           Descargar:{" "}
                           <Link
-                            href="https://mega.nz/file/XtZGEbRb#CURJZhynigQCX4neAd1punyc7Z1nIEH9u2Lg-UzyezU"
+                            href="https://mega.nz/file/HsA33Jwb#rzHWWztV4nW1sGT3FyOgJhrJDXfjxcXHL3vWUDcwuBQ"
                             className="text-blue-500 hover:underline"
                           >
                             MEGA
                           </Link>
                         </p>
-                        <p>Nombre: <span className="font-bold">CLUB5_V2</span></p>
+                        <p>Nombre: <span className="font-bold">CLUB5_V3</span></p>
                         <div className="font-medium text-gray-700">
                           <p>Requisitos:</p>
                           <ul className="list-disc pl-5">
@@ -111,13 +111,15 @@ const Descargas = () => {
                         <p className="font-semibold">
                           Descargar:{" "}
                           <Link
-                            href="https://www.mediafire.com/file/piii346xlxnyx65/Parche_V2.rar/file"
+                            href="https://www.mediafire.com/file/wsvh5asxxkjfdbb/Parche_V3.rar/file"
                             className="text-blue-500 hover:underline"
                           >
-                            PARCHE_V2
+                            PARCHE_V3
                           </Link>
                         </p>
-                        <p>Si tenes el antiguo cliente, debes descargar el Parche de forma obligatoria. El actual Cliente ya tiene el parche incluido, sin embargo recomendamos descargar el Cliente CLUB5_V2</p>
+                        <p>Para los que tenian el Cliente V2, este parche soluciona algunos fix. Si usas este parche en otro cliente, no 
+                          es responsabilidad del servidor
+                        </p>
                         <div className="font-medium text-gray-700"></div>
                       </div>
                     </CardBody>
