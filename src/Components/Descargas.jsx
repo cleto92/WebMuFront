@@ -117,7 +117,7 @@ const Descargas = () => {
                             PARCHE_V3
                           </Link>
                         </p>
-                        <p>Si tenes el antiguo cliente, debes descargar el Parche de forma obligatoria. El actual Cliente ya tiene el parche incluido, sin embargo recomendamos descargar el Cliente CLUB5_V2</p>
+                        <p>Este parche es para los que tienen el Cliente V2, soluciona los errores de los eventos. No se recomienda utilizarlo en otro cliente, para eso debes descargar el cliente V3.</p>
                         <div className="font-medium text-gray-700"></div>
                       </div>
                     </CardBody>
