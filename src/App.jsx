@@ -1,6 +1,7 @@
 /* eslint-disable react-hooks/exhaustive-deps */
 
 import { BsDiscord } from "react-icons/bs";
+import { IoLogoWhatsapp } from "react-icons/io";
 
 import MuOnline2 from "./assets/MuVideo.mp4";
 import "animate.css";
@@ -207,10 +208,12 @@ const App = () => {
               </Modal>
             </div>
             <div className="z-50 flex flex-col gap-10 p-4 mt-44">
-              <BsDiscord
-                href="https://discord.gg/XV8R6pkC"
-                className="w-auto h-6 text-white/50 hover:text-white hover:scale-150 transition"
-              />
+            <a href="https://discord.gg/XV8R6pkC" className="w-auto h-6 text-white/50 hover:text-white hover:scale-150 transition" style={{ display: 'inline-flex', alignItems: 'center', justifyContent: 'center' }}>
+  <BsDiscord style={{ fontSize: '24px' }} />
+</a>
+<a href="https://chat.whatsapp.com/KQio2qdt8G75wr7rqThEm4" className="w-auto h-6 text-white/50 hover:text-white hover:scale-150 transition" style={{ display: 'inline-flex', alignItems: 'center', justifyContent: 'center' }}>
+  <IoLogoWhatsapp style={{ fontSize: '24px' }} />
+</a>
             </div>
           </section>
         )}
