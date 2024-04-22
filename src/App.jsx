@@ -1,8 +1,7 @@
 /* eslint-disable react-hooks/exhaustive-deps */
 
-import { FaFacebook, FaInstagram } from "react-icons/fa";
 import { BsDiscord } from "react-icons/bs";
-import { FaSquareXTwitter } from "react-icons/fa6";
+
 import MuOnline2 from "./assets/MuVideo.mp4";
 import "animate.css";
 import LoginOff from "./Components/LoginOff";
@@ -152,9 +151,10 @@ const App = () => {
               </Modal>
             </div>
             <div className="z-50 flex flex-col gap-10 p-4 mt-44">
-
-              <BsDiscord href="https://discord.gg/XV8R6pkC" className="w-auto h-6 text-white/50 hover:text-white hover:scale-150 transition" />
-
+              <BsDiscord
+                href="https://discord.gg/XV8R6pkC"
+                className="w-auto h-6 text-white/50 hover:text-white hover:scale-150 transition"
+              />
             </div>
           </section>
         ) : (
@@ -207,9 +207,10 @@ const App = () => {
               </Modal>
             </div>
             <div className="z-50 flex flex-col gap-10 p-4 mt-44">
-              <FaFacebook className="w-auto h-6 text-white/50 hover:text-white hover:scale-150 transition" />
-              <FaInstagram className="w-auto h-6 text-white/50 hover:text-white hover:scale-150 transition" />
-              <FaSquareXTwitter className="w-auto h-6 text-white/50 hover:text-white hover:scale-150 transition" />
+              <BsDiscord
+                href="https://discord.gg/XV8R6pkC"
+                className="w-auto h-6 text-white/50 hover:text-white hover:scale-150 transition"
+              />
             </div>
           </section>
         )}
